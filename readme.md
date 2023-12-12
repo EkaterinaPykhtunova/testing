@@ -13,3 +13,5 @@ This project contains basic sh scripts.
 **NAME**: EKATERINA PYKHTUNOVA
 
 **E-MAIL**: eegorova12@ya.ru
+
+**E-MAIL**: eegorova5@rencredit.ru
